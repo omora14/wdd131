@@ -1,0 +1,66 @@
+main { 
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; 
+}
+
+body {
+    font-size: 20px;
+    font-family: Times New Roman, Times, serif;
+    padding: 50px;
+}
+
+.title {
+    text-align: center;
+}
+
+.title h1 {
+    font-size: 36px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.title h2 {
+    color: #006EB6;
+    font-size: 24px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+hr {
+    width: 75%;
+}
+
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px 150px;
+    border: solid 1px #000;
+}
+
+.content p {
+    margin-top: 40px;
+}
+
+main {
+    text-align: left;
+}
+
+em {
+    font-style: italic;
+}
+
+.does-list {
+    margin-left: 20px;
+}
+
+.does-list li {
+margin-top: 25px;
+}
+
+.logo {
+    width: 150px;
+    display: block;
+    margin: 20px auto;
+    margin-top: 70px;
+}
